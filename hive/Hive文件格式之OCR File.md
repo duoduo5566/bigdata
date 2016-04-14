@@ -1,5 +1,4 @@
 ﻿# Hive文件格式之OCR File
-标签（空格分隔）： Hive
 ---
     版本 0.11及以上
 ## Optimized Row Columnar (ORC) 
